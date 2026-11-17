@@ -1,0 +1,12 @@
+{
+  "moi": ["prenom.nom@entreprise.fr"],
+  "groupes": {
+    "mon_equipe": ["equipe@entreprise.fr", "chef-equipe@entreprise.fr"],
+    "direction": ["directeur@entreprise.fr"],
+    "qualite": ["responsable-qualite@entreprise.fr"]
+  },
+  "groupes_par_defaut": ["mon_equipe"],
+  "mode_envoi": "send",
+  "utiliser_mail_app": true,
+  "smtp": null
+}
